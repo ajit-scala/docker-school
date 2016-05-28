@@ -1,3 +1,4 @@
+### Example command docker run -d -p 80:80 coreos/apache /usr/sbin/apache2ctl -D FOREGROUND
 ##Getting started videos:
 https://www.youtube.com/watch?v=pGYAg7TMmp0&index=1&list=PLoYCgNOIyGAAzevEST2qm2Xbe3aeLFvLc&spfreload=5
 
