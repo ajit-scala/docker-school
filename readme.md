@@ -31,3 +31,7 @@ one can install SSH daemon via build script or one issue command docker run -i o
 -----
 simply u build ur image manually or via build script, then upload this image to dockerhub public/private repo, then just use it to run conatiners.
 https://coreos.com/os/docs/latest/getting-started-with-docker.html
+
+---
+#AWS EC2 with docker 
+http://docs.aws.amazon.com/AmazonECS/latest/developerguide/docker-basics.html
