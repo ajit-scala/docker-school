@@ -1,3 +1,9 @@
+##Getting started videos:
+https://www.youtube.com/watch?v=pGYAg7TMmp0&index=1&list=PLoYCgNOIyGAAzevEST2qm2Xbe3aeLFvLc&spfreload=5
+
+https://github.com/learncodeacademy/docker-static-nginx
+
+
 Check ubuntu version
 cat /etc/*release
 
