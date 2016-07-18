@@ -1,6 +1,8 @@
 ### Example command 
 docker run -d -p 80:80 coreos/apache /usr/sbin/apache2ctl -D FOREGROUND
+
 -d as daemon or backgroung process or as win service
+
 -p host os:container ports to open
 
 usage: docker run options repo/image command-to-tun
