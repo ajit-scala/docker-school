@@ -40,8 +40,8 @@ http {
 
     #access_log  logs/host.access.log  main;
 
-    location /oidc {
-      proxy_pass http://IP_ADDRESS:9000;
+    location /LOCAL_LOCATION {
+      proxy_pass http://IP_ADDRESS:LOCAL_PORT;
     }
 
     location / {
@@ -112,8 +112,8 @@ http {
     ssl_ciphers  HIGH:!aNULL:!MD5;
     ssl_prefer_server_ciphers  on;
 
-    location /oidc {
-          proxy_pass http://IP_ADDRESS:9000;
+    location /LOCAL_LOCATION {
+          proxy_pass http://IP_ADDRESS:LOCAL_PORT;
         }
 
     location / {
