@@ -30,6 +30,7 @@ public/stylesheets/*min.css.map
 public/images/*
 resources/build.txt
 deploy/metadata.yaml
+.idea
 
 # Docker-generated files
 .ivy2
