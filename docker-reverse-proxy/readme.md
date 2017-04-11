@@ -5,4 +5,5 @@
 1. will generate nginx.conf from nginx.conf.template
 2. it replaces place holders with local path,  port and ip of the machine.
 ## Dockerfile
-1. creates an image from base image
+1. creates an image from base nginx image
+2. just copies local nginx.conf / web folders to docker instance 
